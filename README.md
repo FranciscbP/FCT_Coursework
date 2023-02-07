@@ -1,2 +1,2 @@
-# FCT_Coursework
- Foundations of Comp &amp; Tech Coursework - Python
+# Foundations of Comp & Tech Coursework (2019)
+Simple Roulette Game
